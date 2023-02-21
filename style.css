@@ -41,7 +41,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* margin-bottom: 242px; */
 }
 
 .red-btn {
@@ -129,9 +128,6 @@ body {
     width: 100px;
     height: 100px;
   }
-  .red-btns {
-    margin-bottom: 350px;
-  }
 
   .winner {
     font-size: 32px;
@@ -148,10 +144,6 @@ body {
   .red-btn {
     width: 75px;
     height: 75px;
-  }
-
-  .red-btns {
-    margin-bottom: 350px;
   }
 
   .winner {
